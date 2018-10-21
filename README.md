@@ -1,4 +1,4 @@
-# Thrift doc lib for Golang
+# Thrift parser lib for Golang
 
 ## 
 
