@@ -2,7 +2,7 @@ package main
 
 import (
 	"path/filepath"
-	"github.com/SerenityHellp/thrift_parse_lib/parser"
+	"github.com/SerenityHellp/thrift_parser_lib/parser"
 	"fmt"
 )
 
