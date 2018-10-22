@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/SerenityHellp/thrift_doc_lib/parser"
+	"github.com/SerenityHellp/thrift_parse_lib/parser"
 	"strings"
 	"fmt"
 )
